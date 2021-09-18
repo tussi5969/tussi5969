@@ -5,9 +5,9 @@ I'm student of NAIST, Japan🇯🇵
 
 
 ---
-#### ▼ Stats🔨
+### ▼ Stats🔨
 <a href="https://github.com/tussi5969">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=tussi5969&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&count_private=true&show_icons=true&bg_color=15,80D0C7,0093E9" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tussi5969&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&count_private=true&show_icons=true&bg_color=15,80D0C7,0093E9" />
 </a>
 
 
