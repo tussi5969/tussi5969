@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Atsushi Miyaji.   
-I'm student of NAIST, Japan🇯🇵
+I'm engineer, Japan🇯🇵
 
 
 ---
